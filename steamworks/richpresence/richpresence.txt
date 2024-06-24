@@ -1,0 +1,9 @@
+"lang"
+{
+	"Language"	"english"
+	"Tokens"
+	{
+		"#AtMainMenu"	"At Main Menu"
+        "#SurvivingFor"    "Surviving for %time%"
+	}
+}
