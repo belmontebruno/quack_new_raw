@@ -6,4 +6,11 @@
 		"#AtMainMenu"	"At Main Menu"
         "#SurvivingFor"    "Surviving for %time%"
 	}
+
+	"Language"	"portuguese"
+	"Tokens"
+	{
+		"#AtMainMenu"	"No Menu Principal"
+        "#SurvivingFor"    "Sobrevivendo há %time%"
+	}
 }
